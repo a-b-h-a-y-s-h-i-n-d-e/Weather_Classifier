@@ -1,3 +1,5 @@
 torch==2.3.1
 torchvision==0.18.1
 ipykernel==6.29.5
+matplotlib==3.9.1
+import-ipynb==0.1.4
