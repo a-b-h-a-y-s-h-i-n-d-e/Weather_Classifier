@@ -1,8 +1,9 @@
-Weather Classifier using CNN... <br />
+# Weather Classifier using CNN... <br />
 <p align="center">
   <img src="images/overview.png" alt="overview.png">
 </p>
 <br />
+
 ## Installation
 
 ```
